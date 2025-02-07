@@ -1,4 +1,4 @@
-Deteksi Palindrom: Pendekatan Iteratif dan Rekursif
+# **Deteksi Palindrom: Pendekatan Iteratif dan Rekursif** # 
 
 Repository ini berisi implementasi program untuk mendeteksi apakah suatu kalimat atau kata merupakan palindrom menggunakan dua pendekatan utama:
 
@@ -6,17 +6,17 @@ Iteratif: Menggunakan loop untuk membandingkan karakter dari awal dan akhir stri
 
 Rekursif: Menggunakan pemanggilan fungsi secara berulang untuk mengecek karakter di awal dan akhir string.
 
-📌 Fitur
+## 📌 Fitur ## 
 
-Mendukung input string dengan atau tanpa spasi dan tanda baca.
+* Mendukung input string dengan atau tanpa spasi dan tanda baca.
 
-Mengabaikan perbedaan huruf besar dan kecil.
+* Mengabaikan perbedaan huruf besar dan kecil.
 
-Implementasi dengan dua metode: iteratif dan rekursif.
+* Implementasi dengan dua metode: iteratif dan rekursif.
 
-🛠 Teknologi yang Digunakan
+## 🛠 Teknologi yang Digunakan ## 
 
-Python
+* Python
 
-Algoritma Iteratif dan Rekursif
+* Algoritma Iteratif dan Rekursif
 
